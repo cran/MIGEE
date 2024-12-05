@@ -1,0 +1,7 @@
+99a5194e443960949032b5afa0d1e65a *DESCRIPTION
+ed1f299fd165fc30f70d6cedbc3be677 *NAMESPACE
+cd76a32bfb7ab23c099820d1040ec4d6 *R/flexImputeModel.R
+911fab2d05f19c2f680969476a7e1edf *R/logdata.R
+cc00c080b890735bb032badfad0311f2 *data/logdata.rda
+5b3c6ed0ca4c70dc34c0d077b39a9856 *man/flexImputeModel.Rd
+bfd506aa1e74be8eb8f37735fb952aef *man/logdata.Rd
